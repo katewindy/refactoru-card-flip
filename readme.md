@@ -1,4 +1,4 @@
-# This is a Readme
+# This is my first exercise for Refactor U
 
-* Here is item 1
-* Here is item 2
+* We had to figure out how to write the CSS to make the cards flip over
+* It should work!
